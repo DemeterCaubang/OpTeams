@@ -1,1 +1,13 @@
 link to herokuapp
+
+7:09 PM 09/15/2020
+https://opteamizing.herokuapp.com/index.html
+
+Notes:
+-set up icons
+-is the design too wonky?
+-create list and grid view for landing page with mock data
+-recolor backpack icon
+-add search bar on banner
+
+
