@@ -10,4 +10,8 @@ Notes:
 -recolor backpack icon
 -add search bar on banner
 
+1:34 PM 10/02/2020
+-tried changing icon
+-deleted other .html pages
+
 
