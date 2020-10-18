@@ -21,3 +21,6 @@ Notes:
 
 -learn how to render to htmls on same page
 -relearn how to embed database data for user display
+
+1:56 PM 10/18/2020
+-logo name must be exact to render on heroku -_-
