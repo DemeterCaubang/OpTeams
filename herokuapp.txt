@@ -14,4 +14,10 @@ Notes:
 -tried changing icon
 -deleted other .html pages
 
+1:23 PM 10/18/2020
+-icon fixed
+-font awesome icons successfully added
+-individual pages added
 
+-learn how to render to htmls on same page
+-relearn how to embed database data for user display
