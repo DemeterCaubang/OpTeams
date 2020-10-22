@@ -24,3 +24,7 @@ Notes:
 
 1:56 PM 10/18/2020
 -logo name must be exact to render on heroku -_-
+
+8:11 PM 10/22/2020
+-white line added
+-how do I make grid view without using javascript? I'm thinking display: none and rerrange. IDK
